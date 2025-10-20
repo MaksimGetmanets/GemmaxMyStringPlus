@@ -1,10 +1,11 @@
-#ifndef my_STRING
-#define my_STRING
+#ifndef MY_STRING
+#define MY_STRING
 
 #include <errno.h>
 #include <math.h>
 #include <stdarg.h>
 #include <stdint.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 #ifdef __linux__
