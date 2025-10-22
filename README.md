@@ -1,9 +1,3 @@
-Теперь у меня есть полная картина проекта! Я получил все файлы: `Makefile`, `my_string.h`, `my_string.c` и `my_test.c`. Создам финальную версию README.
-
----
-
-## **README.md**
-
 # Библиотека My_String / My_String Library
 
 ## Описание / Description
